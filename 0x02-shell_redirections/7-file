@@ -1,2 +1,2 @@
 #!/bin/bash
-find \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+echo "Best School">\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
