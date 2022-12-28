@@ -1,0 +1,2 @@
+#!/bin/bash
+echo path='readlink -f "${BASH_SOURCE:-$0}"'
